@@ -1,18 +1,25 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">           
+        <title>site do sexo</title>
+       
+    </head>
+        <script>              
+            alert("quer me dar ?");
+           var nome =  prompt("se quiser me dar digite seu nome:");
+            alert("bem vindo! " + nome + " meu pau esta liberado para voce");
+            
+        </script>
+    <body>
+        <h1>
+             <script>              
+            alert("quer me dar o cuzin?");
+           var nome =  prompt("se quiser me dar digite seu nome:");
+            alert("bem vindo! " + nome + " meu pau esta liberado para voce");
+            
+        </h1>
+   </body>
+</html>
